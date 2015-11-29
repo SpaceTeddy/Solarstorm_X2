@@ -2,7 +2,7 @@ Solarstorm_X2
 =============
 
 alternative Firmware for the Solarstorm X2 flashlight with Attiny44,84 & Arduino
-it uses the Arduino Tiny core (https://code.google.com/p/arduino-tiny/)
+it uses the Arduino Tiny core (https://github.com/SpenceKonde/ATTinyCore)
 
 
 - 4 light modes
